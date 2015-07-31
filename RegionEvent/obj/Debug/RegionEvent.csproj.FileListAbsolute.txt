@@ -1,0 +1,8 @@
+C:\Users\Magic\Documents\Debug\ServerPlugins\RegionEvent.dll
+C:\Users\Magic\Documents\Debug\ServerPlugins\RegionEvent.pdb
+C:\Users\Magic\Documents\Visual Studio 2013\Projects\RegionEvent\RegionEvent\obj\Debug\RegionEvent.csprojResolveAssemblyReference.cache
+C:\Users\Magic\Documents\Visual Studio 2013\Projects\RegionEvent\RegionEvent\obj\Debug\RegionEvent.dll
+C:\Users\Magic\Documents\Visual Studio 2013\Projects\RegionEvent\RegionEvent\obj\Debug\RegionEvent.pdb
+C:\Users\Magic\Documents\Visual Studio 2013\Projects\RegionEvent - Copy (2)\RegionEvent\obj\Debug\RegionEvent.csprojResolveAssemblyReference.cache
+C:\Users\Magic\Documents\Visual Studio 2013\Projects\RegionEvent - Copy (2)\RegionEvent\obj\Debug\RegionEvent.dll
+C:\Users\Magic\Documents\Visual Studio 2013\Projects\RegionEvent - Copy (2)\RegionEvent\obj\Debug\RegionEvent.pdb
